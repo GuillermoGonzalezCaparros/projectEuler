@@ -1,0 +1,6 @@
+# python venv folder
+venv
+# pycharm .idea folder
+.idea
+# jupyter checkpoints folder
+.ipynb_checkpoints
